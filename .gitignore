@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# JetBrains IDEs
+**/.idea/*
+!**/.idea/dictionaries/
+!**/.idea/scopes/
+!**/.idea/codeInsightSettings.xml
+!**/.idea/fileColors.xml
+*.iml
